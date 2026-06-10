@@ -1,12 +1,11 @@
 # Creating a public Repository for Kinetic Excimer Laser Gas Simulations
-
--Original file was based on Weng Chow 1978
--Adjusted to include LoKI-MC to take cross-sectional data to calculate
+- Original file was based on Weng Chow 1978
+- Adjusted to include LoKI-MC to take cross-sectional data to calculate
 EEDF tables
--Currently do not have EEDF tables for molecules such as KrF, ArF
--Simulation must make do without these kinetic reactions
+- Currently do not have EEDF tables for molecules such as KrF, ArF
+- Simulation must make do without these kinetic reactions
 
--Project solely pumps in a guassian wave with energy to excite 200+ 
+- Project solely pumps in a guassian wave with energy to excite 200+ 
 reaction rates to calculate stochiometric densities of species
 
 ## Must include:
