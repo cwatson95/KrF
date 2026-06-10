@@ -1,3 +1,14 @@
+```
+  _  ___            _   _        __  __           _      _ _ _             
+ | |/ (_)          | | (_)      |  \/  |         | |    | | (_)            
+ | ' / _ _ __   ___| |_ _  ___  | \  / | ___   __| | ___| | |_ _ __   __ _ 
+ |  < | | '_ \ / _ \ __| |/ __| | |\/| |/ _ \ / _` |/ _ \ | | | '_ \ / _` |
+ | . \| | | | |  __/ |_| | (__  | |  | | (_) | (_| |  __/ | | | | | | (_| |
+ |_|\_\_|_| |_|\___|\__|_|\___| |_|  |_|\___/ \__,_|\___|_|_|_|_| |_|\__, |
+                                                                      __/ |
+                                                                     |___/ 
+```
+
 # Creating a public Repository for Kinetic Excimer Laser Gas Simulations
 - Original file was based on Weng Chow 1978
 - Adjusted to include LoKI-MC to take cross-sectional data to calculate
